@@ -2,7 +2,7 @@
 I am currently working on building full-stack web applications using React.js for the frontend and Spring Boot for the backend. My focus is on developing RESTful APIs, implementing CRUD operations, integrating databases like MySQL and PostgreSQL, and using Hibernate/JPA for efficient data persistence. I am also applying Git and GitHub for version control and collaborative development.I am looking to collaborate on Java-based backend projects, Spring Boot microservices, and React.js applications. I am especially interested in projects involving REST APIs, database design, and real-world problem solving, where I can contribute, learn from experienced developers, and improve my development skills.I am looking for help with best practices in microservices architecture, application security, performance optimization, and deployment workflows. I am also eager to learn more about real-time project structures, code reviews, and industry-standard development practices.I am currently learning advanced Spring Boot concepts, microservices communication, and Java Stream API for cleaner and more efficient code. Additionally, I am improving my understanding of database optimization, REST API design principles, and modern frontend patterns in React.js.
 
 ## GitHub Contribution Animation
-<img src="https://raw.githubusercontent.com/jayesh-04/github-comet-animation/main/output/comet-contributions.svg" />
+<img src="https://raw.githubusercontent.com/jayesh-04/github-comet-animation/main/output/comet-contributions.svg?raw=true" />
 
 
 ## 🌐 Socials:

@@ -15,4 +15,6 @@ I am currently working on building full-stack web applications using React.js fo
 ---
 [![](https://visitcount.itsvg.in/api?id=jayesh-04&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/jayesh-04/github-comet-animation/main/output/comet-contributions.svg" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
